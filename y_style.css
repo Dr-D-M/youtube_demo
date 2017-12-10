@@ -1,0 +1,154 @@
+
+.menu{
+	width: 100%;
+	height: 50px;
+	background: #fff;
+	margin: 0;
+	padding: 0;
+
+}
+li{
+	list-style: none;
+}
+body{
+	background: #ECF0F1;
+}
+/*navigation menu*/
+
+.glyphicon-align-justify{
+	font-size: 25px;
+	margin-left: 10px;
+	margin-top: 5px;
+	padding: 0;
+	color: #d4d4d4;
+}
+.glyphicon-user{
+	font-size: 25px;
+	margin-right: 10px;
+	margin-top: 5px;
+	padding: 0;
+	border: 2px solid black;
+	border-size: 30px;
+	border-radius: 45%;
+}
+.glyphicon-bell{
+	font-size: 25px;
+	margin-right: 20px;
+	margin-top: 5px;
+	padding: 0;
+	color: #d4d4d4;
+}
+.glyphicon-open{
+	font-size: 25px;
+	margin-right: 20px;
+	margin-top: 5px;
+	padding: 0;
+	color: #d4d4d4;
+
+}
+.glyphicon-search{
+	font-size: 25px;
+	margin-left: 10px;
+	color: #c1c1c1;
+
+
+}
+
+
+#logo{
+	width: 80px;
+	height: 40px;
+	margin-left: 45px;
+	margin-top: -55px;
+	padding: 0;
+	
+}
+
+
+#box{
+	display: inline-flex;
+	margin-left: 250px; 
+	margin-top: 15px;
+	padding: 0;
+}
+
+/* video*/
+.container{
+	background: #000;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+iframe{
+	margin-top: 20px;
+	margin-left: 80px;
+	padding: 0;
+}
+.col-lg-6{
+	background:#ECF0F1;
+	width: 65%;
+	height: auto;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white;
+}
+#data{
+	background: #fff;
+	width: 100%;
+	height: auto;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white
+	border-top: 1px solid white;
+}
+#commentary{
+	background: #fff;
+	width: 100%;
+	height: auto;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white;
+	border-top: 1px solid white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+
+}
+.col-lg-4{
+	background: #fff;
+	width: 32%;
+	height: auto;
+	margin: 6px;
+	padding: 0;
+	position: relative;
+
+}
+.text-secondary{
+	font-size: 35px;
+}
+p{
+	color: #d4d4d4;
+	font-size: 25px;
+}
+.glyphicon-thumbs-up{
+	font-size: 30px;
+	float: right;
+	margin-right: 10px;
+	color: #191919;
+	margin: 0;
+	padding: 0;
+}
+.glyphicon-thumbs-down{
+	font-size: 30px;
+	float: right;
+	color: #191919;
+	margin: 0;
+	padding: 0s;
+}
+.btn-primary{
+	margin: 5px;
+}
+.btn-default{
+	margin: 5px;
+}
+#thumbnail{
+	margin: 15px;
+	padding: 0;
+}
